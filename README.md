@@ -8,5 +8,6 @@ The Elementalist is a multi-level 2D single-player game in which the player must
 4. Run the Main.py python file
 5. Read the controls in the game menu and have fun
 
-Go to the blog and website of the game at [link](https://sites.google.com/hdsb.ca/theelementalist/home)
+Go to the blog and website of the game at [link](https://sites.google.com/hdsb.ca/theelementalist/home).
+
 Credits: The team included Amjad Halis, Isaac Zhang, Justin Bains, Mohamed Sharaawy, and Rasheed Amanzai.
